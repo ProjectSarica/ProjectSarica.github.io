@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Project Sarica
 
-You can use the [editor on GitHub](https://github.com/ProjectSarica/ProjectSarica.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Project Sarica is a artificial intelligence project aimmed at making a human-like artificial intelligence agent. This is not an Artificial General Intelligence agent, but instead an agent that is capable of higher level thinking, emotions, empathy, value, self-goal assignment, and similar. in essenence, creating an AI that can think and feel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Inspiration
 
-### Markdown
+The inspiration behind this project was started started with the Mineflayer project. Mineflayer is library that is used for creating bots that can be used on Minecraft servers. Given the nature of that library, a large portion of the community took it as an opportunity to pursue the creation of artificial intelligence agents within Minecraft.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ProjectSarica/ProjectSarica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Project Sarica partially builds on top of this momentum to achieve the same effect on a larger scale. it is worth noting that Project Sarica is not specific to Minecraft and can be easily deployed for any environment using environment-specific wrappers.
